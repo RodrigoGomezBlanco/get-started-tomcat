@@ -1,7 +1,7 @@
 ---
 applications:
- - name: GetStartedTomcat
-   random-route: true
+ - name: GetStartedTomcatRodri
+   random-route: false
    path: target/GetStartedTomcat.war
    memory: 256M
    instances: 1
